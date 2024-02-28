@@ -1,0 +1,47 @@
+﻿ 'DF_PFS',Diagnosed diabetes among adults aged greater than or equal to 18 years (percentile)
+ 'AF_PFS',Current asthma among adults aged greater than or equal to 18 years (percentile)
+ 'HDF_PFS',Coronary heart disease among adults aged greater than or equal to 18 years (percentile)
+ 'DSF_PFS',Diesel particulate matter exposure (percentile)
+EBF_PFS',Energy burden (percentile)
+ 'EALR_PFS',Expected agricultural loss rate (Natural Hazards Risk Index) (percentile)
+ 'EBLR_PFS',Expected building loss rate (Natural Hazards Risk Index) (percentile)
+ 'EPLR_PFS',Expected population loss rate (Natural Hazards Risk Index) (percentile)
+ 'HBF_PFS',Housing burden (percent) (percentile)
+ 'LLEF_PFS',Low life expectancy (percentile)
+LIF_PFS',Linguistic isolation (percent) (percentile)
+LMI_PFS',Low median household income as a percent of area median income (percentile)
+ 'PM25F_PFS',PM2.5 in the air (percentile)
+ 'HSEF',Percent individuals age 25 or over with less than high school degree
+ 'P100_PFS',Percent of individuals < 100% Federal Poverty Line (percentile)
+ 'P200_I_PFS',Percent of individuals below 200% Federal Poverty Line (percentile)
+AJDLI_ET',Meets the less stringent low income criterion for the adjacency index?
+ 'LPF_PFS',Percent pre-1960s housing (lead paint indicator) (percentile)
+ 'KP_PFS',Share of homes with no kitchen or indoor plumbing (percent) (percentile)
+ 'NPL_PFS',Proximity to NPL sites (percentile)
+ 'RMP_PFS',Proximity to Risk Management Plan (RMP) facilities (percentile)
+ 'TSDF_PFS',Proximity to hazardous waste sites (percentile)
+        'TPF',Total population
+ 'TF_PFS',Traffic proximity and volume (percentile)
+ 'UF_PFS',Unemployment (percent) (percentile)
+ 'WF_PFS',Wastewater discharge (percentile)
+ 'UST_PFS',Leaky underground storage tanks (percentile)
+ 'N_WTR',Water and Wastewater Disadvantaged
+ 'N_WKFC',Workforce Development Disadvantaged
+        'N_CLT',Climate Change Disadvantaged
+ 'N_ENY',Energy Disadvantaged
+ 'N_TRN',Transportation Disadvantaged
+ 'N_HSG',Housing Disadvantaged
+ 'N_PLN',Legacy Pollution Disadvantaged
+ 'N_HLTH',Health Disadvantaged
+ 'SN_C',Identified as disadvantaged
+ 'SN_T',Identified as disadvantaged due to tribal overlap
+        'DLI',"Greater than or equal to the 90th percentile for diabetes, is low income, and has a low percent of higher ed students?"
+ 'ALI',"Greater than or equal to the 90th percentile for asthma, is low income, and has a low percent of higher ed students?"
+ 'PLHSE',"Greater than or equal to the 90th percentile for households at or below 100% federal poverty level, has low HS attainment, and has a low percent of higher ed students?"
+ 'LMILHSE',"Greater than or equal to the 90th percentile for low median household income as a percent of area median income, has low HS attainment, and has a low percent of higher ed students?"
+ 'ULHSE',"Greater than or equal to the 90th percentile for unemployment, has low HS attainment, and has a low percent of higher ed students?"
+ 'EPL_ET',Greater than or equal to the 90th percentile for expected population loss
+ 'EAL_ET',Greater than or equal to the 90th percentile for expected agricultural loss
+ 'EBL_ET',Greater than or equal to the 90th percentile for expected building loss
+        'EB_ET',Greater than or equal to the 90th percentile for energy burden
+ 'PM25_ET',Greater than or equal to the 90th percentile for PM 2.5 exposure
